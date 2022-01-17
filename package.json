@@ -1,7 +1,7 @@
 {
   "name": "ecs",
   "version": "0.0.0",
-  "description": "ecs implementation",
+  "description": "ec part of ecs high level implementation",
   "main": "lib/index.js",
   "author": "thomas caissie <tomkcey@gmail.com>",
   "license": "unlicensed",
